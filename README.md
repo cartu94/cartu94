@@ -1,5 +1,9 @@
 ### Hi there 👋
-I'm Luca and:
-- 🔭 I have a degree in Computer Science at UNIPD and I'm almost qualified as a brewer.
-- 🌱 I’m currently learning Dart, Flutter, Python, React and Vue.
-- 🍺 My hobbies are video gaming, cooking and brewing, I like making things from scratch. 
+
+I'm Luca, a front-end developer from Italy.  
+
+- 🎓 Computer Science graduate @ University of Padua  
+- 💻 Focused on **TypeScript, Vue/Nuxt, Flutter/Dart**  
+- 🚀 Interested in clean code, refactoring and modern web technologies  
+- 🍺 Also a qualified brewer — I like creating things from scratch, both in code and in brewing  
+- 🎮 Hobbies: cooking, gaming, DIY  
